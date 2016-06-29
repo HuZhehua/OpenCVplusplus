@@ -1,4 +1,9 @@
-/.idea/
+# executable path
 /bin/
+# tmp lib path
+/lib/
 /build/
+
+/doc/doxygen/
+!/doc/README_pictures/
 
